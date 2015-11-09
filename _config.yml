@@ -14,18 +14,18 @@ baseurl: ""
 
 # Forces https everywhere in your website, except when you serve it locally
 
-force-https: True
+force-https: False
 
 #############
 # HTML Head #
 #############
 
-author: "John Smith"
+author: "Mitos Kalandiel"
 lang: "en"
 title: "{ John Smith }"
 favicon: "/img/favicon.ico"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Blog and website of Mitos Kalandiel, blogging mainly for tech. Opinions expressed are mine."
+keywords: "kalandiel, mitos, personal, github, sebastian, meier zu biesen"
 
 ################
 # Intro layout #
@@ -49,6 +49,7 @@ delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
+  - text: "Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind."
 
 ########
 # Blog #
@@ -84,7 +85,7 @@ career-img: "/img/career/default.png"
 # Contact layout #
 ##################
 
-email: "your@email.here"
+email: "webmaster@mitos-kalandiel.me"
 
 ##################
 # Social Buttons #
@@ -92,13 +93,13 @@ email: "your@email.here"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/smeierzubiesen"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/mitoskalandiel"
   - title: "youtube"
-    url: "https://youtube.com/"
+    url: "https://youtube.com/user/mitoskalandiel"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/mitoskalandiel"
   - title: "rss"
     url: "/feed.xml"
 
