@@ -6,10 +6,10 @@ categories: joker-solutions
 ---
 #Lets talk about Joker Solutions Software
 
-{% highlight php %}
+```php
 phpinfo();
 # Outputs all PHP modules and other information
-{% endhighlight %}
+```
 
 [JAF]: http://github.com/mitoskalandiel/JAF
 [JAM]: http://github.com/mitoskalandiel/JAM
